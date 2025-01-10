@@ -5,6 +5,6 @@ import { LogoComponent } from '../logo/logo.component';
   selector: 'app-header',
   imports: [LogoComponent],
   templateUrl: './header.component.html',
-  styleUrl: './header.component.css',
+  styles: ``,
 })
 export class HeaderComponent {}
